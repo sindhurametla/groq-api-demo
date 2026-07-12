@@ -15,6 +15,8 @@ This project demonstrates how to interact with Groq-hosted LLMs using Python.
 python-dotenv
 requests
 openai
+jupyter
+ipykernel
 ```
 
 ## Setup
